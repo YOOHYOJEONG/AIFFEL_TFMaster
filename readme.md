@@ -9,3 +9,4 @@
 | 04 | Save and Load |[🌳](https://github.com/YOOHYOJEONG/AIFFEL_TFMaster/blob/master/tf04_save_and_load.ipynb)|   
 | 05 | Overfit and underfit |[🌳](https://github.com/YOOHYOJEONG/AIFFEL_TFMaster/blob/master/tf05_Overfit_and_underfit.ipynb)|   
 | 06 | Load and preprocess images|[🌳](https://github.com/YOOHYOJEONG/AIFFEL_TFMaster/blob/master/tf06_Load_and_preprocess_images.ipynb)|    
+| 07 | The Functional API | [🌳](https://github.com/YOOHYOJEONG/AIFFEL_TFMaster/blob/master/tf07_The_Functional_API.ipynb) |      
